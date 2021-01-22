@@ -26,5 +26,5 @@ public abstract class Brinjal {
 
 /* Static and final keywords*/
 
-/* Abstract withou method body */
+/* Abstract without method body */
 
