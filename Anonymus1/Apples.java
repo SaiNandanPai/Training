@@ -41,12 +41,9 @@ public class Apples {
         // console.log("")
 
         Orange o = new Orange(); // Anonymus object
+        o.name = "";
 
-        System.out.println(o.x);
-
-
-
-
+        //System.out.println(o.x);
 
     }
 
